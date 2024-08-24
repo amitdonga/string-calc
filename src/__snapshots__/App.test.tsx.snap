@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`String Calculator should renders component and match snapshot 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <h1>
+      String Calculator
+    </h1>
+    <input
+      id="string"
+      name="string"
+      placeholder="Please enter string to calculate"
+      type="text"
+    />
+    <button>
+      Calculate
+    </button>
+  </div>
+</div>
+`;
