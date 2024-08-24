@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amitdonga/string-calc/static/css/main.f855e6bc.css",
+    "main.js": "/amitdonga/string-calc/static/js/main.0c4eda43.js",
+    "static/js/453.5c73ab44.chunk.js": "/amitdonga/string-calc/static/js/453.5c73ab44.chunk.js",
+    "index.html": "/amitdonga/string-calc/index.html",
+    "main.f855e6bc.css.map": "/amitdonga/string-calc/static/css/main.f855e6bc.css.map",
+    "main.0c4eda43.js.map": "/amitdonga/string-calc/static/js/main.0c4eda43.js.map",
+    "453.5c73ab44.chunk.js.map": "/amitdonga/string-calc/static/js/453.5c73ab44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0c4eda43.js"
+  ]
+}
