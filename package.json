@@ -2,7 +2,7 @@
   "name": "string-calc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/amitdonga/string-calc",
+  "homepage": "https://amitdonga.github.io/string-calc/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
