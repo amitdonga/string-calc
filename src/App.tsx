@@ -7,6 +7,7 @@ function App() {
   const [error, setError] = useState("");
 
   const handleClick = (e: any) => {
+    setError("");
     if (string.length === 0) {
       setResult(0);
       return 0;
