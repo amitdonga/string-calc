@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# To visit the string calculator please use below public URL
+
+https://amitdonga.github.io/string-calc/
+
 ## Available Scripts
 
 In the project directory, you can run:
